@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPEED RACE", "SPEED RACE\SPEED RACE.vcxproj", "{BDD7B786-6890-4830-A6AE-9464B5A1150D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SPEED RACE SETUP", "SPEED RACE SETUP\SPEED RACE SETUP.vdproj", "{CE7791EC-C68A-4805-8A7E-89121B1EE5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD7B786-6890-4830-A6AE-9464B5A1150D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDD7B786-6890-4830-A6AE-9464B5A1150D}.Debug|Win32.Build.0 = Debug|Win32
+		{BDD7B786-6890-4830-A6AE-9464B5A1150D}.Release|Win32.ActiveCfg = Release|Win32
+		{BDD7B786-6890-4830-A6AE-9464B5A1150D}.Release|Win32.Build.0 = Release|Win32
+		{CE7791EC-C68A-4805-8A7E-89121B1EE5A4}.Debug|Win32.ActiveCfg = Debug
+		{CE7791EC-C68A-4805-8A7E-89121B1EE5A4}.Debug|Win32.Build.0 = Debug
+		{CE7791EC-C68A-4805-8A7E-89121B1EE5A4}.Release|Win32.ActiveCfg = Release
+		{CE7791EC-C68A-4805-8A7E-89121B1EE5A4}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
